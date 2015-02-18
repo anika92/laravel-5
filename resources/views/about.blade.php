@@ -1,0 +1,3 @@
+<?php $greetings . ''. $things ?>
+
+Anika
